@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas
 
-Projeto de análise de dados com visualização gráfica usando pandas e matplotlib.
+## Projeto de análise de dados com visualização gráfica usando pandas e matplotlib.
 
 ## 🚀 Funcionalidades
 - Leitura de dados de vendas
